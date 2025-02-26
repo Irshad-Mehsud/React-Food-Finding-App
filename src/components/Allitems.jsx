@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Allitems.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 //===============All the imported Images======================
 import Icone from "../assets/ic-1.jpeg";
 import Ictwo from "../assets/ic-2.jpeg";
